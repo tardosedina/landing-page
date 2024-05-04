@@ -47,8 +47,7 @@ img {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding: 150px;
 }
 
 #hero-title {
