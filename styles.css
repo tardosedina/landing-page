@@ -22,8 +22,11 @@ ul {
 }
 
 nav h2 {
-    color: #f9faf8;
     font-size: 24px;
+}
+
+.hero-fa {
+    color: #f9faf8;
 }
 
 .hero-sec {
@@ -113,6 +116,7 @@ h1 {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    border-radius: 20px;
 }
 
 #callbox button {
