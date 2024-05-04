@@ -44,3 +44,17 @@ img {
     font-size: 48px;
     font-weight: 900;
 }
+
+button {
+    border: none;
+    font-size: 24px;
+    font-weight: 900;
+    color: #f9faf8;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.blue-bg {
+    background-color: #3882f6;
+}
