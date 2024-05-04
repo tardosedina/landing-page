@@ -45,8 +45,10 @@ img {
 
 #header-cont {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 #hero-title {
@@ -95,6 +97,7 @@ h1 {
 
 #quote {
     background-color: #e5e7eb;
+    padding: 100px;
 }
 
 #q1 {
