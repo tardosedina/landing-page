@@ -5,7 +5,9 @@ body {
     margin: 0;
 }
 
-
+div {
+    padding: 20px;
+}
 
 .hero-bg {
     background-color: #1f2937;
