@@ -25,4 +25,22 @@ nav h2 {
 
 .hero-sec {
     color: #e5e7eb;
+    font-size: 18px;
+}
+
+img {
+    width: 250px;
+}
+
+#header-cont {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#hero-title {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;
 }
