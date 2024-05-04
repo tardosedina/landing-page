@@ -1,0 +1,22 @@
+nav {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-around;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
+    list-style: none;
+}
+
+h2 {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+.hero-sec {
+    color: #e5e7eb;
+}
