@@ -110,7 +110,9 @@ h1 {
 
 #callbox {
     width: 800px;
-    
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 #callbox button {
