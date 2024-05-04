@@ -2,7 +2,10 @@
 
 body {
     font-family: Roboto;
+    margin: 0;
 }
+
+
 
 .hero-bg {
     background-color: #1f2937;
