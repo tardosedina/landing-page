@@ -122,3 +122,9 @@ h1 {
 #callbox button {
     border: 2px solid #e5e7eb;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
