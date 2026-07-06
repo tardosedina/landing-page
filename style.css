@@ -37,7 +37,7 @@ nav ul li {
     color: #e5e7eb;
 }
 
-#hero button {
+button {
     background-color: #3882f6;
     color: white;
     border: none;
@@ -86,4 +86,26 @@ figure {
 
 #action {
     background-color: #3882f6;
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 70px;
+    border-radius: 10px;
+}
+
+#time {
+    font-weight: 900;
+}
+
+#actbtn {
+    border: 3px solid #f9faf8;
+}
+
+footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
